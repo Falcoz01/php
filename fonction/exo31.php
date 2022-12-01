@@ -1,9 +1,11 @@
 <?php
 
-$tab=[88,55,44,87];
+$tab=[88,55,44,81];
+$o=0;
+for($i=0;$i<count($tab);$i++){
+    $o=$o+$tab[$i];    
+   }
 
-$i=$tab[0]+$tab[1]+$tab[2]+$tab[3];
-
-echo $i;
+echo $o;
 
 ?>
