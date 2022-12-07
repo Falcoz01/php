@@ -1,0 +1,20 @@
+td{
+    border: 3px solid black;
+    font-size: 18px;
+}
+
+tr{
+    display: flex;
+    flex-direction: row;
+}
+
+input{
+    height: 50px;
+    width: 50px;
+}
+
+.vide{
+    height: 50px;
+    width: 50px;
+    
+}

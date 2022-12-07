@@ -1,0 +1,25 @@
+.vide{
+    height: 150px;
+    width: 150px;
+    
+}
+
+td{
+    border: 3px solid black;
+    font-size: 18px;
+}
+
+tr{
+    display: flex;
+    flex-direction: row;
+}
+.t1{
+    text-align: center;
+}
+
+
+
+input{
+    height: 150px;
+    width: 150px;
+}
